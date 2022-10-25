@@ -1,6 +1,6 @@
 ---
 title: jekyll 블로그 만들기 (번외)
-author: <AOLOW>
+author: aa
 categories: [Blog, jekyll]
 date: 2022-10-07 19:05:00 +0900
 tags: [jekyll, github, blog, github-desktop, error]
