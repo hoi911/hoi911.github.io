@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+정보 보안을 주 목표로 공부 중인 학생입니다. 현재 **Notion**을 사용해 필기 중에 있지만 새로운 취미 겸 유익한 정보가 있으면 사람들과 공유하기 위해 블로그 개설했습니다.
+
+아직 전문지식도 갖춰지지 않았고, 가끔 이해가 안되는 부분은 뇌피셜로 적는 습관이 있는데 피드백은 언제나 환영합니다 ㅠㅠ
+
+잘못된 내용 혹은 오탈자 등 지적사항이 있으면 댓글로 알려주세요!
+
+읽어주셔서 감사합니다..!
