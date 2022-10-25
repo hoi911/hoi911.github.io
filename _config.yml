@@ -93,7 +93,7 @@ comments:
     shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: hoi911/hoi911.github.io        # <gh-username>/<repo>
+    repo: hoi911/gh_comments        # <gh-username>/<repo>
     issue_term: pathname  # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
