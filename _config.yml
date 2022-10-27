@@ -24,7 +24,7 @@ title: AOLOW                          # the main title
 tagline: 공부하자...   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Dev and Something. 
+  프로그래밍, 네트워크, 보안 등 여러 IT 분야를 공부하는 학생이 기록해나가는 블로그입니다.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://hoi911.github.io'
