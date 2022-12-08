@@ -12,7 +12,7 @@
 
   [**Live Demo →**](https://cotes2020.github.io/chirpy-demo)
 
-  [![Devices Mockup](https://raw.githubusercontent.com/cotes2020/chirpy-images/main/commons/devices-mockup.png)](https://cotes2020.github.io/chirpy-demo)
+  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)](https://cotes2020.github.io/chirpy-demo)
 
 </div>
 
@@ -102,4 +102,4 @@ This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chi
 <!-- ReadMe links -->
 
 [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
-[cn-donation]: https://cotes2020.github.io/sponsor/
+[cn-donation]: https://sponsor.cotes.page/
